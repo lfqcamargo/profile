@@ -7,17 +7,18 @@
 
 Sou um desenvolvedor de software especializado em Python, JavaScript, e desenvolvimento backend. Tenho experiência com tratamento de dados usando Pandas, desenvolvimento de Aprendizado de Máquina e desenvolvimento web com Django.
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lfqcamargo)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/lfqcamargo](https://www.linkedin.com/in/lucas-camargo-3b34872a4/)
 ![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:lfqcamargo@gmail.com)
 
 ---
 
 ## Habilidades
 
-- **Linguagens**: Python, JavaScript, SQL
-- **Frameworks**: Django, Node.js
+- **Linguagens**: Python, JavaScript, TypeScript, HTML, CSS, SQL, NoSQL
+- **Frameworks**: FasAPI, Django, Django Rest Framework, TypeORM, Prisma, FastFy, Sequelize, Node.js, React
+- **Frameworks**: Pandas, NumPy, Scikit-Learn
 - **Banco de Dados**: MySQL, Oracle
-- **Outros**: Pandas, Desenvolvimento Ágil
+- **Outros**: Desenvolvimento Ágil
 
 ---
 
@@ -28,31 +29,35 @@ Sou um desenvolvedor de software especializado em Python, JavaScript, e desenvol
 ![API Estoque](https://img.shields.io/github/stars/lfqcamargo/api-estoque?style=social)
 ![API Estoque](https://img.shields.io/github/forks/lfqcamargo/api-estoque?style=social)
 
-Descrição: Sistema de gerenciamento de estoque desenvolvido com FastAPI, SQLAlchemy e PostgreSQL. Implementa funcionalidades de cadastro, consulta e atualização de produtos.
+Descrição: Sistema de gerenciamento de estoque introdutorio desenvolvido em diversos frameworks. Django Rest Framework, Sequelize, TypeORM, FastFy, Prisma, Express
 
 ### [Web Book Trade](https://github.com/lfqcamargo/web_book_trade)
 
 ![Web Book Trade](https://img.shields.io/github/stars/lfqcamargo/web_book_trade?style=social)
 ![Web Book Trade](https://img.shields.io/github/forks/lfqcamargo/web_book_trade?style=social)
 
-Descrição: Aplicação web para doação e troca de livros, onde os usuários podem cadastrar, postar livros, trocar mensagens e combinar a troca ou doação de livros. Desenvolvida com React e FastAPI.
+Descrição: Aplicação web para doação e troca de livros, onde os usuários podem cadastrar, postar livros, trocar mensagens e combinar a troca ou doação de livros. Desenvolvida com FastAPI e React. -- EM ANDAMENTO
 
 ---
 
 ## Experiência Profissional
 
 - **Usina São Manoel** - Analista Desenvolvedor Júnior (Agosto 2023 - Atual)
-  - Desenvolvimento e manutenção do sistema ERP da empresa, utilizando Uniface e Oracle.
+  - Responsável pelo desenvolvimento e manutenção do sistema ERP da empresa, utilizando a plataforma
+  Uniface em conjunto com o banco de dados da Oracle para otimizar operações de negócios, melhorar a
+  eficiência dos processos internos e garantir a precisão dos dados em todas as funções empresariais.
 
 - **Info & Cia.** - Técnico de Informática (Março 2020 - Fevereiro 2023)
-  - Manutenção de equipamentos de informática, instalação e configuração de redes.
+  - Técnico de Informática em manutenção de equipamentos de informática, incluindo PCs, notebooks e
+  outros dispositivos. Serviços externos, incluindo instalação e configuração de roteadores, manutenção de
+  redes e suporte técnico direto aos clientes em suas localidades.
 
 ---
 
 ## Formação Acadêmica
 
-- **Uninter** - Tecnólogo em Análise e Desenvolvimento de Sistemas (2020 - 2023)
-- **Univesp** - Bacharel em Engenharia de Software (2023 - Em Andamento)
+- **Uninter** -    Tecnólogo em Análise e Desenvolvimento de Sistemas (2020 - 2023)
+- **Univesp** -    Bacharel em Ciencia de Dados (2023 - Em Andamento)
 - **Anhanguera** - Pós Graduação em Inteligência Artificial e Machine Learning (2024 - Em Andamento)
 - **Anhanguera** - Pós Graduação em Engenharia de Dados (2023 - Em Andamento)
 
