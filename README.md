@@ -7,7 +7,7 @@
 
 Sou um desenvolvedor de software especializado em Python, JavaScript, e desenvolvimento backend. Tenho experiência com tratamento de dados usando Pandas, desenvolvimento de Aprendizado de Máquina e desenvolvimento web com Django.
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/lfqcamargo](https://www.linkedin.com/in/lucas-camargo-3b34872a4/)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-camargo-3b34872a4/)
 ![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:lfqcamargo@gmail.com)
 
 ---
