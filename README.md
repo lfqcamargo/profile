@@ -73,6 +73,30 @@ Descrição: Aplicação web para doação e troca de livros, onde os usuários 
 
 ---
 
+## Repositórios de Estudos
+### [React Estudos](https://github.com/lfqcamargo/React-Estudos)
+
+![React Estudos](https://img.shields.io/github/stars/lfqcamargo/React-Estudos?style=social)
+![React Estudos](https://img.shields.io/github/forks/lfqcamargo/React-Estudos?style=social)
+
+Descrição: Repositório de estudos focado em React, contendo diversos exemplos e práticas de desenvolvimento com esta biblioteca.
+
+### [Inteligência Artificial](https://github.com/lfqcamargo/IA)
+
+![Inteligência Artificial](https://img.shields.io/github/stars/lfqcamargo/IA?style=social)
+![Inteligência Artificial](https://img.shields.io/github/forks/lfqcamargo/IA?style=social)
+
+Descrição: Repositório de estudos em Inteligência Artificial, com exemplos e práticas de algoritmos de machine learning e deep learning.
+
+### [JavaScript Estudos](https://github.com/lfqcamargo/JavaScript)
+
+![JavaScript Estudos](https://img.shields.io/github/stars/lfqcamargo/JavaScript?style=social)
+![JavaScript Estudos](https://img.shields.io/github/forks/lfqcamargo/JavaScript?style=social)
+
+Descrição: Repositório dedicado a estudos em JavaScript, incluindo algoritmos, padrões de design e exemplos práticos.
+
+---
+
 ## Contato
 
 - **Email**: lfqcamargo@gmail.com
